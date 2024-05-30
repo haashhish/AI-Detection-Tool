@@ -13,6 +13,9 @@ The repository includes the following files:
 Prerequisites
 - Python 3.7 or higher
 
+Weights:
+- Any used weights can be requested by email. Please send your request to mohamedh_4@aucegypt.edu 
+
 Datasets:
 - Datasets used in this project are not included in the repository and should be requested via email. Please send your request to mohamedh_4@aucegypt.edu with a brief explanation of your use case.
 

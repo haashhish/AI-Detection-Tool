@@ -16,4 +16,5 @@ Prerequisites
 Datasets:
 - Datasets used in this project are not included in the repository and should be requested via email. Please send your request to mohamedh_4@aucegypt.edu with a brief explanation of your use case.
 
+Note: This project is my thesis work at AUC during Spring 2024 and is intended for educational and research purposes. Any use of the provided code should appropriately cite this repository and the associated thesis.
 If you have any questions or requests, feel free to contact me at mohamedh_4@aucegypt.edu

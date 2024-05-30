@@ -48,7 +48,7 @@ app.add_middleware(
     allow_headers=["*"],  
 )
 
-genai.configure(api_key="AIzaSyBdGtoQtLXgLhfcxM1357QT7ck9YOBXbgE")
+genai.configure(api_key="API")
 Geminimodel = genai.GenerativeModel('gemini-pro')
 
 nltk.download('punkt')
